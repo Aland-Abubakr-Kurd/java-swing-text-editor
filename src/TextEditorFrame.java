@@ -1,3 +1,8 @@
+// Based on a tutorial by Bro Code
+// Original video: https://youtu.be/NKjqAQAtq-g
+// I do not claim ownership of the original code.
+// You may notice some slight modifications, but the core logic remains largely the same as in the original tutorial.
+
 import javax.swing.JButton;
 import javax.swing.JColorChooser;
 import javax.swing.JComboBox;
@@ -25,11 +30,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
-
-// Based on a tutorial by Bro Code
-// Original video: https://youtu.be/NKjqAQAtq-g
-// I do not claim ownership of the original code.
-// You may notice some slight modifications, but the core logic remains largely the same as in the original tutorial.
 
 // TextEditorFrame handles the GUI and all the underlying logic for 
 // typing, formatting, opening, and saving text files.
